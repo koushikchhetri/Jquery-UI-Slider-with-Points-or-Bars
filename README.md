@@ -4,6 +4,7 @@ Jquery-UI-Slider-with-Points-or-Bars
 This jquery plugin is used to generate points or bars on the Jquery UI Slider.
 
 Procedure:
+		
 		#Take an array where values are label that you want to show on the slider
 		#example var arr=array(10,20,30,40,50,60,70,80);
 		#Consider the jquery ui slider selector object is "#slider"
